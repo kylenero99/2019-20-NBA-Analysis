@@ -7,7 +7,7 @@ play was able to go on.
 The following is an analysis of the groundbreaking NBA season.
 
 File list:
-1. FantasyBaksetballAnalysis.ipynb: analysis of players fantasy basketball value
+1. FantasyBaksetballAnalysis.ipynb: analysis of players' fantasy basketball value
 2. TradeAnalysis.ipynb: potential trade recommendations that would benefit two or more teams
 3. CovidBreak.ipynb: comparison of teams' performances before and after the 3 month break
 4. OutcomePredictor.ipynb: predicts the outcome of a game using position analysis
