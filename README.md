@@ -14,4 +14,4 @@ File list:
 5. OutcomePredictor.ipynb: predicts the outcome of a game using position analysis
 
 Notes to self:
--Consider scraping data from https://www.basketball-reference.com/
+1. Consider scraping data from https://www.basketball-reference.com/
