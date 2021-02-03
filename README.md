@@ -12,3 +12,6 @@ File list:
 3. TradeAnalysis.ipynb: potential trade recommendations that would benefit two or more teams
 4. CovidBreak.ipynb: comparison of teams' performances before and after the 3 month break
 5. OutcomePredictor.ipynb: predicts the outcome of a game using position analysis
+
+Notes to self:
+-Consider scraping data from https://www.basketball-reference.com/
