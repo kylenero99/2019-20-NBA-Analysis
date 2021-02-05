@@ -1,3 +1,0 @@
--Analyze how the 3 month break caused by COVID affected the league. Which teams benefitted? Which teams suffered?
--Use positional matchup analysis to predict the outcome of a given game --> the outcome of the season
--Use positional/fantasy analysis to suggest trades that would be beneficial two or more teams
